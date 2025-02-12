@@ -5,7 +5,8 @@ Quick guide
 1. Open projectr in any code redactor
 2. Open bash terminal
 3. Create virtual env
-   ```
+
+```
 python -m venv venv
 ```
 4. Open your virtual env
