@@ -1,4 +1,4 @@
-# scan_bid
+<h1>Hi there, It's  <a href="https://scan.bid/" target="_blank">scan.bid</a>
 
 Quick guide 
 
