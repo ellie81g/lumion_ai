@@ -1,0 +1,10 @@
+SITE_KEY: str = '0152B4EB-D2DC-460A-89A1-629838B529C9'
+SITE_URL: str = 'https://twitter.com/account/access'
+FIRSTCAPTCHA_API_KEY: str = 'e3333e0cfc11489997dc01d00cc7e2ba'
+CHANGE_PROXY_URL: str | None = ''
+REPEATS_ATTEMPTS: int = 5
+SOLVE_CAPTCHA_ATTEMPTS: int = 3
+UNAUTHORIZED_ATTEMPTS: int = 3
+SLEEP_BETWEEN_TASKS: int = 15
+SLEEP_AFTER_PROXY_CHANGING: int | None = 0
+GM_PHRASES_LIST: list = ['gm', 'gM', 'Gm', 'GM', 'GM fam', 'gm FAM', 'gm fam', 'Gm Fam!']
