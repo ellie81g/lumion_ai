@@ -1,5 +1,6 @@
-<h1>Hi there, It's  <a href="https://scan.bid/" target="_blank">scan.bid</a>
+<h1 align="center">Hi there, It's  <a href="https://scan.bid/" target="_blank">scan.bid</a>
 
+<p>
 Quick guide 
 
 1. Open projectr in any code redactor
@@ -21,3 +22,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+</p>
