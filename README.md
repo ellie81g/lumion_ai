@@ -1,4 +1,4 @@
-<p align="center">Hi there, It's  <a href="https://scan.bid/" target="_blank">scan.bid</p>
+<p>Hi there, It's  <a href="https://scan.bid/" target="_blank">scan.bid</p>
 
 Quick guide 
 
